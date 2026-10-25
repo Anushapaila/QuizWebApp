@@ -15,7 +15,6 @@ This project demonstrates the integration of frontend technologies with Java bac
 - MySQL database integration
 - Organized structure for managing quiz information
 
-*Note: Confirm each feature against your actual implementation before publishing.*
 
 ## 🛠️ Technologies Used
 
@@ -27,7 +26,7 @@ This project demonstrates the integration of frontend technologies with Java bac
 
 ## 📂 Project Structure
 
-The project may contain the following components, depending on your repository structure:
+
 
 ```text
 QuizWebApp/
