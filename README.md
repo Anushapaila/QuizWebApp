@@ -23,7 +23,7 @@ This project demonstrates the integration of frontend technologies with Java bac
 - **Backend:** Java
 - **Database:** MySQL
 - **Development Tools:** IntelliJ IDEA / VS Code
-- **Server:** Apache Tomcat (if configured in your project)
+- **Server:** Apache Tomcat 
 
 ## 📂 Project Structure
 
